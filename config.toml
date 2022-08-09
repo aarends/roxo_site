@@ -1,8 +1,8 @@
 baseURL = "https://resplendent-dragon-949f9e.netlify.app/"
 languageCode = "en-us"
 summarylength = 25
-theme = "roxo"
-title = "Roxo | Creative Design Agency"
+theme = "roxo yui"
+title = "Roxo | Creative Design Pro"
 [[menu.nav]]
 name = "Home"
 url = ""
